@@ -1,1 +1,1 @@
-commentare metadata. Data about data
+comment are metadata. Data about data
